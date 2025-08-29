@@ -45,16 +45,6 @@ To build a predictive model that can identify potential diseases based on a set 
 - Achieved high accuracy with Random Forest Classifier
 - Demonstrated reliable predictions across multiple symptom combinations
 
-## 📂 File Structure
-
-Ai-Disease-Predictor/
-├── Ai_Disease_Predictor_Bootcamp.ipynb 
-# Main notebook 
-├── heart_dataset.csv 
-# Dataset used 
-├── README.md 
-# Project documentation
-
 
 ## 🤝 Acknowledgments
 
